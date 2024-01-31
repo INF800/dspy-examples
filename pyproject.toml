@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "dspy-examples"
+version = "0.0.0"
+description = ""
+authors = ["rakesh <rakeshark22@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+dspy-ai = "2.1.4"
+jupyter = "^1.0.0"
+
+[tool.poetry.dev-dependencies]
